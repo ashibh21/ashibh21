@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashibh21
-- 👀 I’m interested in Web dev ,android dev ,cp, Metaverse
-- 🌱 I’m currently learning CSS,JS
-- 
+✨I'm Ashish currently aFirst Year IT student at KIET and aspiring software developer. My interest lies in field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons and I have a love relationship with Programming :-)✨
+
+Connect with me 😃
+Linkedin-https://www.linkedin.com/in/ashish-bhatt-9b1937225/
 
 
 <!---

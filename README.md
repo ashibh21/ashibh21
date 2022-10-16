@@ -1,4 +1,4 @@
-✨I'm Ashish currently a First Year IT student at KIET and aspiring software developer. My interest lies in field of Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons and I have a love relationship with Programming :-)✨
+✨I'm Ashish currently a 2nd Year IT student at KIET and aspiring software developer. My interest lies in field of Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons and I have a love relationship with Programming :-)✨
 
 Connect with me 😃
 
